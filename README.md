@@ -26,4 +26,6 @@
 <br/>
 
 ---
+<div><p>My profile overview: </p></div>
 
+![Apurv's github stats](https://github-readme-stats.vercel.app/api?username=thiagoaffede&show_icons=true)
