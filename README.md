@@ -1,15 +1,14 @@
-<h1 align="center">Hi , I'm Thiago Affede <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hola , Soy Thiago <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-## I'm a Computer Science and Engineering Student  
+## Soy estudiante de informática.
 
-- 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
-- 📚 I’m currently learning everything about Frontend and Backend technologies 😅
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- ⚡ Fun fact: I love to play pool and snooker 🎱.
+- 👨‍💻 Actualmente estoy trabajando en tecnologías de desarrollo web como JavaScript, VB.NET, etc.
+- 📚 Actualmente estoy aprendiendo todo sobre tecnologías Frontend y Backend 😅
+- 💪🏼 Metas futuras: Aprender más tecnologías.
 
 ---
 
-### Languages and Tools 🛠 
+### Languajes y Herramientas 🛠 
 
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
@@ -26,6 +25,8 @@
 <br/>
 
 ---
-<div><p>My profile overview: </p></div>
+## Github Stats
 
-![Apurv's github stats](https://github-readme-stats.vercel.app/api?username=thiagoaffede&show_icons=true)
+<img src="https://github-readme-stats.vercel.app/api?username=thiagoaffede&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=thiagoaffede&theme=blueberry_duo"/>
+|---|---|
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoaffede&layout=compact&theme=github_dark"/>|
